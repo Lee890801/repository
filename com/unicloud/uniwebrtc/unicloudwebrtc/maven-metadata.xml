@@ -3,10 +3,30 @@
   <groupId>com.unicloud.uniwebrtc</groupId>
   <artifactId>unicloudwebrtc</artifactId>
   <versioning>
-    <release>1.0.72</release>
+    <release>1.72.64</release>
     <versions>
-      <version>1.0.72</version>
+      <version>1.72.824</version>
+      <version>1.93.1</version>
+      <version>1.93.2</version>
+      <version>1.0.1</version>
+      <version>1.72.824.1</version>
+      <version>1.72.824.2</version>
+      <version>1.72.824.3</version>
+      <version>1.72.824.4</version>
+      <version>1.72.824.5</version>
+      <version>1.72.824.6</version>
+      <version>1.72.824.110</version>
+      <version>1.72.824.112</version>
+      <version>1.72.824.113</version>
+      <version>1.72.824.114</version>
+      <version>1.72.824.200</version>
+      <version>1.72.824.300</version>
+      <version>1.72.824.400</version>
+      <version>1.72.824.500</version>
+      <version>1.72.824.501</version>
+      <version>1.72.1223</version>
+      <version>1.72.64</version>
     </versions>
-    <lastUpdated>20210203024608</lastUpdated>
+    <lastUpdated>20220318031540</lastUpdated>
   </versioning>
 </metadata>
